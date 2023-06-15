@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
-* main - Entry point
+* Main - this means the Entry point
 *
-* Return: Always 0 (Success)
+* Return: Always 0 (Void)
 */
 int main(void)
 {
