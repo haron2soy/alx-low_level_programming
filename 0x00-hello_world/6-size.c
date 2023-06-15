@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
-* Main - Starting
+* main - Starting
 *
-* 
+*
 * Return: a 0 (Good)
 */
 int main(void)
