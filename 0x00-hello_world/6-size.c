@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
-* main - Starting
+* main - Entry or Starting
 *
 *
 * Return: a 0 (Good)
