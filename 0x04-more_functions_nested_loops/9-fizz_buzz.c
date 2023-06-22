@@ -4,8 +4,8 @@
 /**
  * main - writesm 1-100 and a  line
  * but for multiples of three prints Fizz instead of the number
- * and for the multiples 
- * Return: Always 0
+ * and for the multiples
+ * Return: Always (0)
  */
 int main(void)
 {
