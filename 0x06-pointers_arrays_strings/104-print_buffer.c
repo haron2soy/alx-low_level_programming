@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * print_buffesr - print buffer
+ * print_buffer - print buffer
  * @b: buffers
  * @size: sizes
  * Return: void
